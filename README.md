@@ -4,7 +4,7 @@
 Topic: Central limit theorem, confidence intervals
 
 Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
-
+**Evaluated by TA (Sanapala Sathvik) Score:100/100**
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
@@ -13,6 +13,7 @@ Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 🚀 Overview
 
 This repository contains Assignment 6 covering CLT and CI.  
+
 
 
 
